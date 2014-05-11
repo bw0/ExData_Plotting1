@@ -1,4 +1,4 @@
-# The second plot
+# The third plot
 # setwd("C:/MOOCs/Coursera/Current/Exploratory Data Analysis/Week1/ExData_Plotting1")
 
 # Get the column classes
